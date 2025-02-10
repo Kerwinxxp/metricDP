@@ -2,7 +2,7 @@
 
 This repository provides a structured survey of **Metric Differential Privacy (mDP)** research, categorizing papers based on key aspects such as **problem domain, context awareness, distance metric, mechanism type, discrete vs. continuous setting, application, scalability, and utility**. The repository consists of three main files:  
 
-# metricDP_related_work.md
+# metricDP related work.md
 
 1. A comprehensive analysis of mDP-related papers, focusing on their core contributions and technical aspects. Each paper is examined through the lens of:  
    - **Domain**: The specific area of application (e.g., location privacy, crowdsourcing, federated learning).  
