@@ -15,7 +15,7 @@ This repository provides a structured survey of **Metric Differential Privacy (m
 
 # Attacl model.pdf
 
-2. A collection of research discussing different **attack strategies** against mDP mechanisms, analyzing their effectiveness, assumptions, and potential defenses.  
+2. A collection of research discussing different **attack strategies** against mDP mechanisms
 
 # mDP evolution.pdf
 
